@@ -3,7 +3,7 @@
     {
       "id": 0,
       "min_version": 0,
-      "max_version": 411,
+      "max_version": 1,
       "title": "New update",
       "text": "New Update ",
       "button": "Ok",
@@ -11,7 +11,7 @@
     }
   ],
   "apk": {
-    "version": 402,
+    "version": 1,
     "str": "TEST",
     "path": "hotline-launcher.apk",
     "auto_update": true,
