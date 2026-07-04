@@ -1,0 +1,16 @@
+{
+  "URL_HOST": "http://pa-nel.ru/host/",
+  "URL_HOST2": "http://pa-nel.ru/host/",
+  "URL_UPDATE": "http://pa-nel.ru/api_launcher/api_dop/update.json",
+  "URL_NEWS": "http://pa-nel.ru/api_launcher/api_dop/news.json",
+  "URL_HELP": "http://pa-nel.ru/api_launcher/api_dop/help.json",
+  "URL_CONFIG": "https://online-launcher.com/SAMPNEW_V2/config/samp_settings.ini",
+  "URL_ONLINE_API": "http://pa-nel.ru/api_launcher/api_dop/online_api.php",
+  "URL_DONATE_API": "https://finlne-rp.ru/donate",
+  "URL_SITE": "https://finline-rp.ru/",
+  "URL_VK": "https://vk.com/finline_samp",
+  "URL_YOUTUBE": "https://vk.com/finline_samp",
+  "URL_INSTAGRAM": "https://vk.com/finline_sampy",
+  "URL_SUPPORT": "https://vk.com/finline_samp",
+  "URL_TELEGRAM": "https://t.me/finlinerp_channel"
+}
